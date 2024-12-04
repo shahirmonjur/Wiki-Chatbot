@@ -14,7 +14,7 @@ This Electron app provides a user-friendly interface to interact with the Wiki-C
    ```bash
    git clone [https://github.com/your-username/wiki-chatbot-electron.git](https://github.com/your-username/wiki-chatbot-electron.git)
 
-cd wiki-chatbot-electron
+   cd wiki-chatbot-electron
 npm install
 
 npm start
