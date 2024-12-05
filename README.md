@@ -1,11 +1,12 @@
-# Wiki-Chatbot Project: Personal Overview
+# Wiki-Chatbot Project
 
-This project is a cross-platform desktop application I developed to interact with the Wikipedia API. Using the Electron Framework, I designed and implemented both the frontend and backend components to provide a seamless user experience for querying Wikipedia articles in real-time.
-What I Worked On
+
+This project is a cross-platform web project me and my friend developed to interact with the Wikipedia API. This was in my 5th semester I believe, we were googling about these APIs as everyone was grabbing APIs left right and center and therefore we wanted to see what it was all about. Using the Electron Framework, we tinkered with the API from Wikipedia to try and see how those worked and the way they are integrated in the backend. We never hosted it for the web. 
+
 
 ![image](https://github.com/user-attachments/assets/f3d2e945-13c7-4514-9e70-abd2f82fac75)
 
-
+What we worked on
    - Frontend Development:
         - Created the user interface using HTML, CSS, and JavaScript, focusing on simplicity and usability.
         - Added features like instant query submission and real-time response display.
