@@ -10,13 +10,13 @@ This Electron app provides a user-friendly interface to interact with the Wiki-C
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
+**Clone the Repository:**
+   ``bash
 - git clone [https://github.com/your-username/wiki-chatbot-electron.git](https://github.com/your-username/wiki-chatbot-electron.git)
 
 - cd wiki-chatbot-electron
 
-Technical Overview:
+## Technical Overview:
 
 - Electron Framework: The foundation for building cross-platform desktop applications using web technologies.
 - Frontend:
@@ -29,7 +29,7 @@ Technical Overview:
 - Flask API:
    - Python Framework: Handles incoming queries, processes them using the Wikipedia API, and returns relevant results.
 
-Customization and Future Improvements:
+## Customization and Future Improvements:
 
 - UI Enhancements: Customize the appearance and behavior of the app.
 - Backend Optimization: Improve the performance and reliability of the Flask API.
