@@ -11,7 +11,7 @@ This Electron app provides a user-friendly interface to interact with the Wiki-C
 ## Getting Started
 
 **Clone the Repository:**
-   ``bash
+   bash
 - git clone [https://github.com/your-username/wiki-chatbot-electron.git](https://github.com/your-username/wiki-chatbot-electron.git)
 
 - cd wiki-chatbot-electron
