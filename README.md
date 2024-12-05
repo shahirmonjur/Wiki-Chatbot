@@ -3,6 +3,9 @@
 This project is a cross-platform desktop application I developed to interact with the Wikipedia API. Using the Electron Framework, I designed and implemented both the frontend and backend components to provide a seamless user experience for querying Wikipedia articles in real-time.
 What I Worked On
 
+![image](https://github.com/user-attachments/assets/f3d2e945-13c7-4514-9e70-abd2f82fac75)
+
+
    - Frontend Development:
         - Created the user interface using HTML, CSS, and JavaScript, focusing on simplicity and usability.
         - Added features like instant query submission and real-time response display.
@@ -32,6 +35,9 @@ Install dependencies and start the application:
 
     npm install
     npm start
+
+![image](https://github.com/user-attachments/assets/f5c605a6-c339-4cbd-bca2-0862b8d2b885)
+
 
 Challenges and Solutions
 
