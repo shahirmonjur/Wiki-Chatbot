@@ -23,10 +23,10 @@ What I Worked On
 
 How to Use the Project
 
-    Clone the repository:
+   Clone the repository:
 
-git clone https://github.com/your-username/wiki-chatbot-electron.git
-cd wiki-chatbot-electron
+      git clone https://github.com/your-username/wiki-chatbot-electron.git
+      cd wiki-chatbot-electron
 
 Install dependencies and start the application:
 
